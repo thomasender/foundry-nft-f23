@@ -1,0 +1,10 @@
+{
+    "name": "W3CG",
+    "description": "The official Web3 Coding Group Owner NFT",
+    "image": "https://ipfs.io/ipfs/Qmdpy5qW9Y3erykDAxsxqQ38mvUaNoQNjKssvaGFkztFc7?filename=w3cg-logo.png",
+    "attributes": [
+        {
+            "status": "owner"
+        }
+    ]
+}
